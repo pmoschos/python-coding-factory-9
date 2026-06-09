@@ -2,6 +2,14 @@
 
 Welcome to the Python Greeting Function Demonstration! This script showcases a simple Python function designed to print a greeting message to a specific place. It’s a perfect resource for beginners or educators teaching the fundamentals of function definition, parameter handling, and documentation in Python.
 
+
+---
+
+<img src="func.png" alt="Data Types Explained" width="71%" />
+
+---
+
+
 ## Script Overview 📘
 
 The script defines a function `say_hello` that prints a greeting to a specified location, with a default location of "Coding Factory" if no other is specified. The script also demonstrates how to access the function's documentation programmatically, enhancing the understanding of Python docstrings.
