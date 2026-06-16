@@ -6,6 +6,13 @@ This script demonstrates how to measure the execution time of functions in Pytho
 
 The script defines a `timer_decorator` that wraps a function to measure and print its execution time. Three example functions (`sum_function`, `average_function`, and `reverse_string`) are decorated to demonstrate the functionality.
 
+
+---
+
+<img src="decorators.png" alt="Syntax vs Logic" width="71%" />
+
+---
+
 ### :computer: Script Code
 
 ```python
