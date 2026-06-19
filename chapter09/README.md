@@ -1,6 +1,6 @@
 # 👩‍💻📊 Simple Machine Learning Projects 🧑‍💻📈
 
-![Total Views](https://views.whatilearened.today/views/github/pmoschos/python-CF8.svg)![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/python-CF8) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/python-coding-factory-9.svg)![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/python-coding-factory-9) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Overview 🌟
 
@@ -12,22 +12,22 @@ This repository contains advanced Python scripts that demonstrate various machin
 
 <table>
   <tr>
-    <td>01. <a href="https://github.com/pmoschos/python-CF8/tree/main/chapter09/01.%20Simple%20Linear%20Regression" title="Linear regression with single feature for housing price prediction.">Housing Price Prediction (Single Feature)</a></td>
+    <td>01. <a href="https://github.com/pmoschos/python-coding-factory-9/tree/main/chapter09/01.%20Simple%20Linear%20Regression" title="Linear regression with single feature for housing price prediction.">Housing Price Prediction (Single Feature)</a></td>
   </tr>
   <tr>
-    <td>02. <a href="https://github.com/pmoschos/python-CF8/tree/main/chapter09/02.%20Multi%20Linear%20Regression" title="Linear regression with multiple features for housing price prediction.">Housing Price Prediction (Multiple Features)</a></td>
+    <td>02. <a href="https://github.com/pmoschos/python-coding-factory-9/tree/main/chapter09/02.%20Multi%20Linear%20Regression" title="Linear regression with multiple features for housing price prediction.">Housing Price Prediction (Multiple Features)</a></td>
   </tr>
   <tr>
-    <td>03. <a href="https://github.com/pmoschos/python-CF8/tree/main/chapter09/03.%20Multi%20Linear%20Regression%20extended" title="Linear regression with all features for housing price prediction.">Housing Price Prediction (All Features)</a></td>
+    <td>03. <a href="https://github.com/pmoschos/python-coding-factory-9/tree/main/chapter09/03.%20Multi%20Linear%20Regression%20extended" title="Linear regression with all features for housing price prediction.">Housing Price Prediction (All Features)</a></td>
   </tr>
   <tr>
-    <td>04. <a href="https://github.com/pmoschos/python-CF8/tree/main/chapter09/04.%20Classification%20ClassifiedData" title="K-Nearest Neighbors classification with error rate analysis.">KNN Classification</a></td>
+    <td>04. <a href="https://github.com/pmoschos/python-coding-factory-9/tree/main/chapter09/04.%20Classification%20ClassifiedData" title="K-Nearest Neighbors classification with error rate analysis.">KNN Classification</a></td>
   </tr>
   <tr>
-    <td>05. <a href="https://github.com/pmoschos/python-CF8/tree/main/chapter09/05.%20MNIST%20Dataset" title="Convolutional Neural Network for MNIST digit classification.">MNIST CNN Classification</a></td>
+    <td>05. <a href="https://github.com/pmoschos/python-coding-factory-9/tree/main/chapter09/05.%20MNIST%20Dataset" title="Convolutional Neural Network for MNIST digit classification.">MNIST CNN Classification</a></td>
   </tr>
   <tr>
-	<td>06. <a href="https://github.com/pmoschos/Python-CF8/tree/main/chapter09/06.%20Credit%20Fraud%20Detexction" title="Credit Card Fraud Detection - Learn and Apply">Credit Card Fraud Detection</a></td>
+	<td>06. <a href="https://github.com/pmoschos/python-coding-factory-9/tree/main/chapter09/06.%20Credit%20Fraud%20Detexction" title="Credit Card Fraud Detection - Learn and Apply">Credit Card Fraud Detection</a></td>
   </tr>
 </table>
 
@@ -103,11 +103,11 @@ This repository contains advanced Python scripts that demonstrate various machin
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pmoschos/python-CF8
+   git clone https://github.com/pmoschos/python-coding-factory-9
    ```
 2. Navigate to the folder:
    ```bash
-   cd python-CF8
+   cd python-coding-factory-9
    ```
 3. Run any script:
    ```bash
